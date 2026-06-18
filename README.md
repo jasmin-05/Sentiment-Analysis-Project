@@ -41,5 +41,5 @@ Accuracy Achieved: 92.6%
 
 ## Author
 
-Jasmin Rajguru
+Moota Rushil 
 
