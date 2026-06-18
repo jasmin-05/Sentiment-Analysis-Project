@@ -3,6 +3,8 @@
 ## Project Overview
 
 This project performs sentiment analysis on Twitter data using Natural Language Processing (NLP) and Machine Learning techniques.
+Model used: Logistic Regression 
+Accuracy Achieved: 92.6%
 
 ## Dataset
 
